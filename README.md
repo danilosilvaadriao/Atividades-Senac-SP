@@ -3,7 +3,13 @@
 
 ## Em andamento...
 
-Estou fazendo o upload aos poucos. Até aqui, estão atividades do primeiro semestre do curso. 
+Estou fazendo o upload aos poucos. Até aqui, estão atividades do primeiro semestre do curso.
+
+ ## Tecnologias
+  - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+  
+ ## IDE de Desenvolvimento
+  - [Replit](https://replit.com/)
 
 ---
 Feito por Danilo Silva Adrião 🖱 [Veja meu LinkedIn](https://www.linkedin.com/in/danilosilvaadriao)
