@@ -1,9 +1,10 @@
 # Atividades - Senac-SP <br>
  :books: Neste repositório estão os códigos de aulas, atividades e projetos do meu curso de Análise e Desenvolvimento de Sistemas no SENAC SP.
 
-## Em andamento...
+## Atividades em andamento...
 
-Estou fazendo o upload aos poucos. Até aqui, estão atividades do primeiro semestre do curso.
+Estou fazendo os commit's aos poucos. Até aqui, estão atividades do primeiro semestre do curso.
+Estamos no segundo semestre. Ainda faltam alguns códigos e atividades do primeiro semestre do curso. Vou tirar um tempo para colocá-los aqui no GitHub.
 
  ## Tecnologias
   - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
