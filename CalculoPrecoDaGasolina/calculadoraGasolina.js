@@ -1,3 +1,5 @@
+// JavaScript para calculo do preço (fictício) da gasolina
+
 var valorGasolina, valorAlcool, valorConsumo, valorResultado;
 
 do{ valorGasolina = parseFloat (prompt("Preço da gasolina R$: "));
