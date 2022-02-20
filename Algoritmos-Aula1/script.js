@@ -1,4 +1,4 @@
-// Aula de algoritmo 1 - Senac
+// Aula 1: Algoritmos I - Senac-SP
 
 // entrada de dados
 
