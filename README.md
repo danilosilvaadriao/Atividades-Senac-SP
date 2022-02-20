@@ -3,8 +3,7 @@
 
 ## Atividades em andamento...
 
-Estou fazendo os commit's aos poucos. Até aqui, estão atividades do primeiro semestre do curso.
-Estamos no segundo semestre. Ainda faltam alguns códigos e atividades do primeiro semestre do curso. Vou tirar um tempo para colocá-los aqui no GitHub.
+Estou fazendo os commit's aos poucos. Até aqui, estão atividades do primeiro semestre do curso. Estamos no segundo semestre. Ainda faltam alguns códigos e atividades do primeiro semestre do curso. Vou tirar um tempo para colocá-los aqui no GitHub.
 
  ## Tecnologias
   - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
