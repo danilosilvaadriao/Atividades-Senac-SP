@@ -1,6 +1,6 @@
 # Sistema de Cálculo do Preço da Gasolina e do Álcool - Comparativo
 
-🏣 Sistema de cálculo do preço da gasolina e do álcool, e ele também mostra a diferença de preço de preço entre estes dois combustíveis, indicando qual é o mais vantajoso de acordo com o valor inserido.
+💸 Sistema de cálculo do preço da gasolina e do álcool, e ele também mostra a diferença de preço de preço entre estes dois combustíveis, indicando qual é o mais vantajoso de acordo com o valor inserido.
 
 <a href="https://replit.com/@danilosadriao/calculadoraGasolina#index.js"><h2>Clique aqui para testar o projeto no <strong>Replit</strong></h2></a>
 
